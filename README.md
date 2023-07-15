@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xoddpkd36r0yanwm?svg=true)](https://ci.appveyor.com/project/GLM-Alyona/game-saving-loader)
